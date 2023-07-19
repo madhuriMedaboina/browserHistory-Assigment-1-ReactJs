@@ -1,0 +1,41 @@
+.list-type {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.list-card {
+  display: flex;
+  margin-left: 10px;
+}
+.list-card p {
+  margin: 10px;
+}
+.button {
+  background-color: transparent;
+  border: 0px;
+}
+.time {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #475569;
+  font-weight: 500;
+}
+.img-url {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.title {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 500;
+}
+.domain {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 13px;
+  font-weight: 400;
+}
